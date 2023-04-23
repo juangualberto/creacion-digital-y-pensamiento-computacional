@@ -141,3 +141,5 @@ Algunos ejemplos de aplicaciones de simulación de fenómenos naturales y social
 * Simulación de tráfico: Los modelos de simulación de tráfico en big data pueden ayudar a predecir y optimizar el tráfico en tiempo real. Un ejemplo de producto comercial para esto es el software PTV Vissim.
 * Simulación de eventos deportivos: Los modelos de simulación en big data pueden ayudar a predecir los resultados de eventos deportivos y analizar la estrategia de los equipos. Un ejemplo de producto comercial para esto es el software SAS Sports Analytics.
 * Simulación de desastres naturales: Los modelos de simulación de desastres naturales en big data pueden ayudar a predecir y planificar la respuesta a eventos como terremotos y huracanes. Un ejemplo de software libre para esto es el proyecto HAZUS.
+
+\pagebreak

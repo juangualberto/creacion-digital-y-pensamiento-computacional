@@ -263,19 +263,16 @@ Puede ser un delito informático en el que se utiliza una computadora o una red 
 
 Los ciberdelitos pueden ser llevados a cabo por individuos, grupos organizados o incluso por gobiernos. Algunos ejemplos de ciberdelitos incluyen:
 
-*   Hacking: El acceso no autorizado a sistemas informáticos con el fin de robar información o causar daños.
-    
-*   Phishing: El uso de correos electrónicos falsos o sitios web falsos para engañar a las personas y obtener información confidencial, como contraseñas o números de tarjetas de crédito.
-    
-*   Malware: La distribución de software malicioso que puede ser utilizado para espiar o dañar sistemas informáticos.
-    
-*   Fraude en línea: El uso de internet para llevar a cabo estafas, como el fraude de inversión o la venta de productos falsos.
-    
-*   Ciberacoso: La utilización de internet para hostigar, intimidar o amenazar a otras personas.
-    
+* Hacking: El acceso no autorizado a sistemas informáticos con el fin de robar información o causar daños.
+* Phishing: El uso de correos electrónicos falsos o sitios web falsos para engañar a las personas y obtener información confidencial, como contraseñas o números de tarjetas de crédito.
+* Malware: La distribución de software malicioso que puede ser utilizado para espiar o dañar sistemas informáticos.
+* Fraude en línea: El uso de internet para llevar a cabo estafas, como el fraude de inversión o la venta de productos falsos.
+* Ciberacoso: La utilización de internet para hostigar, intimidar o amenazar a otras personas.
 
 Los ciberdelitos son un problema creciente en todo el mundo, ya que la tecnología se ha vuelto cada vez más omnipresente en nuestras vidas cotidianas. Los delincuentes pueden utilizar herramientas y técnicas sofisticadas para cometer ciberdelitos y, a menudo, pueden hacerlo desde cualquier lugar del mundo, lo que dificulta su detección y enjuiciamiento.
 
-Los ciberdelitos pueden tener graves consecuencias para las víctimas, incluyendo la pérdida de datos personales y financieros, la interrupción de los sistemas informáticos y la exposición a actividades ilegales. También pueden tener consecuencias más amplias, como la afectación de la economía o la seguridad nacional.
+Pueden tener graves consecuencias para las víctimas, incluyendo la pérdida de datos personales y financieros, la interrupción de los sistemas informáticos y la exposición a actividades ilegales. También pueden tener consecuencias más amplias, como la afectación de la economía o la seguridad nacional.
 
 Para prevenir los ciberdelitos es importante tomar medidas de seguridad como mantener actualizados los sistemas y software, utilizar contraseñas seguras, evitar hacer clic en enlaces sospechosos y estar alerta a posibles intentos de phishing. También es importante contar con herramientas de seguridad como software antivirus, firewalls y herramientas de detección de intrusiones. En caso de sufrir un ciberdelito, es importante reportarlo a las autoridades y tomar medidas para mitigar los daños.
+
+\pagebreak

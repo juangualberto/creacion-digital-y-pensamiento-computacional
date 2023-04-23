@@ -705,3 +705,5 @@ turtle.end_fill()
 Ya hemos visto con turtle lo básico (punto, línea, triángulo, cuadrado, rectángulo, círculo, elipse, sectores y arcos), ahora es el momento de pasar a TkInter, la biblioteca gráfica de Python.
 
 TO-DO.
+
+\pagebreak

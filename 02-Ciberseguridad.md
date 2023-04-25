@@ -3,9 +3,9 @@
 
 ## Criptografía
 
-### Introducción
-
 La criptografía es una técnica que se utiliza para proteger la información y mantenerla segura. Básicamente, se trata de convertir un mensaje en algo que sólo pueda ser entendido por la persona que tiene la clave para descifrarlo.
+
+### Introducción
 
 Dentro de la criptografía, hay tres conceptos clave que debes conocer: criptología, criptoanálisis y criptosistema. La criptología es la ciencia que estudia la criptografía, mientras que el criptoanálisis es la técnica para tratar de descifrar un mensaje sin tener la clave. Y finalmente, el criptosistema es el conjunto de técnicas y procedimientos que se utilizan para cifrar y descifrar mensajes.
 
@@ -39,11 +39,11 @@ La esteganografía es una técnica de ocultación de información que se utiliza
 
 Existen varios algoritmos de esteganografía que se utilizan en el mundo real, entre ellos destacan:
 
-*   Esteganografía en imágenes: en este tipo de esteganografía se oculta información en el interior de una imagen. Los datos se pueden ocultar en los píxeles menos significativos de una imagen, lo que permite que el mensaje oculto no sea detectado a simple vista. Uno de los algoritmos más conocidos es el método de esteganografía LSB (Least Significant Bit), el cual consiste en reemplazar los bits menos significativos de la imagen con los bits del mensaje oculto.
+* Esteganografía en imágenes: en este tipo de esteganografía se oculta información en el interior de una imagen. Los datos se pueden ocultar en los píxeles menos significativos de una imagen, lo que permite que el mensaje oculto no sea detectado a simple vista. Uno de los algoritmos más conocidos es el método de esteganografía LSB (Least Significant Bit), el cual consiste en reemplazar los bits menos significativos de la imagen con los bits del mensaje oculto.
     
-*   Esteganografía en audio: en este tipo de esteganografía se oculta información en el interior de un archivo de audio. Los datos se pueden ocultar en las frecuencias menos audibles, lo que permite que el mensaje oculto no sea detectado por el oído humano. Uno de los algoritmos más conocidos es el método de esteganografía MP3Stego, el cual consiste en reemplazar las muestras de audio menos significativas con los datos del mensaje oculto.
+* Esteganografía en audio: en este tipo de esteganografía se oculta información en el interior de un archivo de audio. Los datos se pueden ocultar en las frecuencias menos audibles, lo que permite que el mensaje oculto no sea detectado por el oído humano. Uno de los algoritmos más conocidos es el método de esteganografía MP3Stego, el cual consiste en reemplazar las muestras de audio menos significativas con los datos del mensaje oculto.
     
-*   Esteganografía en texto: en este tipo de esteganografía se oculta información dentro del propio texto de un mensaje. Uno de los algoritmos más conocidos es el método de esteganografía null cipher, el cual consiste en ocultar el mensaje en los espacios en blanco entre las palabras del texto.
+* Esteganografía en texto: en este tipo de esteganografía se oculta información dentro del propio texto de un mensaje. Uno de los algoritmos más conocidos es el método de esteganografía null cipher, el cual consiste en ocultar el mensaje en los espacios en blanco entre las palabras del texto.
     
 
 En cuanto a los usos de la esteganografía en el mundo real, puede ser utilizada en situaciones en las que se necesita proteger la privacidad de la información, como en el ámbito militar o en la protección de datos sensibles. Por otro lado, también puede ser utilizada con fines malintencionados, como el ocultamiento de mensajes terroristas o para fines de espionaje.
@@ -88,40 +88,28 @@ Una vez que se ha establecido la conexión segura, el navegador y el servidor in
 
 Si un servidor malicioso intenta suplantar la identidad de un sitio web seguro, el navegador mostrará una advertencia de seguridad al usuario, ya que el certificado no se puede verificar o no coincide con el nombre de dominio en la URL. Por lo tanto, es importante verificar que el sitio web seguro que estás visitando esté usando un certificado emitido por una CA confiable y que el nombre de dominio en la URL coincida con el nombre de dominio en el certificado.
 
-Hacking ético
--------------
-
-### Introducción
+## Hacking ético
 
 El hacking se refiere al acto de aprovechar vulnerabilidades en sistemas informáticos o redes para obtener acceso no autorizado o realizar modificaciones no autorizadas en los mismos. El hacking ético, por otro lado, es el uso de técnicas de hacking para identificar vulnerabilidades en sistemas o redes con el propósito de mejorar la seguridad y protegerlos contra ataques malintencionados.
 
+### Introducción al Hacking Ético
+
 Las fases típicas de un proceso de hacking ético son las siguientes:
 
-1.  Recopilación de información: El objetivo es obtener información sobre el sistema o red que se va a probar.
-    
-2.  Escaneo: Se utilizan herramientas de escaneo de vulnerabilidades para identificar puertos abiertos, servicios en ejecución y vulnerabilidades conocidas.
-    
-3.  Enumeración: Se recopila información adicional sobre los sistemas y servicios identificados en la fase de escaneo.
-    
-4.  Explotación: Se intenta aprovechar las vulnerabilidades identificadas para obtener acceso no autorizado o realizar modificaciones en el sistema o red.
-    
-5.  Mantenimiento del acceso: Si se logra obtener acceso, se realiza un mantenimiento del mismo para mantener la persistencia y seguir explorando el sistema o red.
-    
-6.  Informe: Se documentan las vulnerabilidades encontradas y se informa al dueño del sistema o red para que puedan ser corregidas.
-    
+1. Recopilación de información: El objetivo es obtener información sobre el sistema o red que se va a probar.
+2. Escaneo: Se utilizan herramientas de escaneo de vulnerabilidades para identificar puertos abiertos, servicios en ejecución y vulnerabilidades conocidas.
+3. Enumeración: Se recopila información adicional sobre los sistemas y servicios identificados en la fase de escaneo.
+4. Explotación: Se intenta aprovechar las vulnerabilidades identificadas para obtener acceso no autorizado o realizar modificaciones en el sistema o red.
+5. Mantenimiento del acceso: Si se logra obtener acceso, se realiza un mantenimiento del mismo para mantener la persistencia y seguir explorando el sistema o red.
+6. Informe: Se documentan las vulnerabilidades encontradas y se informa al dueño del sistema o red para que puedan ser corregidas.
 
 Existen varios tipos de hackers, algunos de los cuales son:
 
-1.  White hat (sombrero blanco): Son hackers éticos que utilizan sus habilidades para mejorar la seguridad de los sistemas y redes.
-    
-2.  Black hat (sombrero negro): Son hackers malintencionados que utilizan sus habilidades para obtener acceso no autorizado a sistemas y redes con fines ilícitos.
-    
-3.  Grey hat (sombrero gris): Son hackers que no tienen intenciones malintencionadas, pero pueden realizar actividades ilegales o no éticas para identificar vulnerabilidades.
-    
-4.  Script kiddies: Son personas que utilizan herramientas automatizadas y programas preconfigurados para realizar ataques sin comprender realmente cómo funcionan.
-    
-5.  Hacktivistas: Son hackers que utilizan sus habilidades para hacer una declaración política o social.
-    
+1. White hat (sombrero blanco): Son hackers éticos que utilizan sus habilidades para mejorar la seguridad de los sistemas y redes.
+2. Black hat (sombrero negro): Son hackers malintencionados que utilizan sus habilidades para obtener acceso no autorizado a sistemas y redes con fines ilícitos.
+3. Grey hat (sombrero gris): Son hackers que no tienen intenciones malintencionadas, pero pueden realizar actividades ilegales o no éticas para identificar vulnerabilidades.
+4. Script kiddies: Son personas que utilizan herramientas automatizadas y programas preconfigurados para realizar ataques sin comprender realmente cómo funcionan.
+5. Hacktivistas: Son hackers que utilizan sus habilidades para hacer una declaración política o social.
 
 Es importante destacar que el hacking ético es una actividad legítima que se realiza con el permiso del dueño del sistema o red que se está probando. El objetivo es mejorar la seguridad y proteger los sistemas y redes contra ataques malintencionados.
 
@@ -137,39 +125,45 @@ La razón por la que se utilizan estos equipos es para mejorar la seguridad de u
 
 Existen otros tipos de equipos de ciberseguridad, como el equipo de respuesta a incidentes de seguridad (CSIRT), que se centra en la gestión y respuesta a los incidentes de seguridad en la organización, y el equipo de gestión de riesgos de seguridad, que se centra en la evaluación y mitigación de los riesgos de seguridad en la organización.
 
-### Técnicas de búsqueda de información: Information gathering.
-
-  
+### Técnicas de búsqueda de información: Information gathering
 
 La fase de recopilación de información o "information gathering" es crucial en el hacking ético y en la ciberseguridad en general. Esta fase implica la recopilación de información sobre el objetivo para poder identificar posibles vulnerabilidades y ataques.
 
 Existen diferentes técnicas y herramientas que se pueden utilizar para recopilar información sobre un objetivo. A continuación, se presentan algunas de las técnicas más comunes:
 
-1.  OSINT (Open Source Intelligence): Se trata de la recopilación de información a partir de fuentes públicas de acceso libre, como redes sociales, foros, blogs, noticias, entre otros. El objetivo es obtener información relevante y valiosa sobre el objetivo que pueda ser utilizada en la siguiente fase de análisis.
-    
-2.  Escaneo de puertos y servicios: Los hackers utilizan esta técnica para identificar los servicios que se ejecutan en el sistema objetivo y para identificar posibles vulnerabilidades en estos servicios. Algunas herramientas populares para esta técnica son Nmap, Masscan y Zmap.
-    
-3.  Enumeración de DNS: Esta técnica implica la recopilación de información sobre el objetivo a través de la consulta de registros DNS, como registros MX, registros de subdominios, registros de host, entre otros. Algunas herramientas populares para esta técnica son NSLookup, Dig y Fierce.
-    
-4.  Escaneo de vulnerabilidades: Se trata de la identificación de posibles vulnerabilidades en el sistema objetivo, utilizando herramientas como Nessus, OpenVAS y Nikto.
-    
-5.  Ingeniería social: Los hackers utilizan esta técnica para obtener información valiosa de los usuarios de la organización objetivo, como contraseñas, información personal y credenciales de inicio de sesión. Algunas técnicas de ingeniería social incluyen la suplantación de identidad, el phishing y la ingeniería social por teléfono.
-    
+1. OSINT (Open Source Intelligence): Se trata de la recopilación de información a partir de fuentes públicas de acceso libre, como redes sociales, foros, blogs, noticias, entre otros. El objetivo es obtener información relevante y valiosa sobre el objetivo que pueda ser utilizada en la siguiente fase de análisis.
+2. Escaneo de puertos y servicios: Los hackers utilizan esta técnica para identificar los servicios que se ejecutan en el sistema objetivo y para identificar posibles vulnerabilidades en estos servicios. Algunas herramientas populares para esta técnica son Nmap, Masscan y Zmap.
+3. Enumeración de DNS: Esta técnica implica la recopilación de información sobre el objetivo a través de la consulta de registros DNS, como registros MX, registros de subdominios, registros de host, entre otros. Algunas herramientas populares para esta técnica son NSLookup, Dig y Fierce.
+4. Escaneo de vulnerabilidades: Se trata de la identificación de posibles vulnerabilidades en el sistema objetivo, utilizando herramientas como Nessus, OpenVAS y Nikto.
+5. Ingeniería social: Los hackers utilizan esta técnica para obtener información valiosa de los usuarios de la organización objetivo, como contraseñas, información personal y credenciales de inicio de sesión. Algunas técnicas de ingeniería social incluyen la suplantación de identidad, el phishing y la ingeniería social por teléfono.
 
 Es importante tener en cuenta que estas técnicas deben ser utilizadas únicamente con fines éticos y legales, como parte de una prueba de penetración autorizada.
 
 En cuanto a programas, algunas herramientas populares para la fase de recopilación de información incluyen:
 
-*   Maltego: una herramienta de OSINT que permite la recopilación y visualización de información en tiempo real.
-    
-*   Nmap: una herramienta de escaneo de puertos y servicios.
-    
-*   Metasploit: una plataforma de pruebas de penetración que incluye herramientas de escaneo de vulnerabilidades.
-    
-*   Social-Engineer Toolkit (SET): una herramienta de ingeniería social que incluye diferentes técnicas de phishing.
-    
+* Maltego: una herramienta de OSINT que permite la recopilación y visualización de información en tiempo real.
+* Nmap: una herramienta de escaneo de puertos y servicios.
+* Metasploit: una plataforma de pruebas de penetración que incluye herramientas de escaneo de vulnerabilidades.
+* Social-Engineer Toolkit (SET): una herramienta de ingeniería social que incluye diferentes técnicas de phishing.
 
 Recuerda que estas herramientas deben ser utilizadas con precaución y con fines éticos y legales.
+
+#### Reconocimiento pasivo
+
+##### OSINT
+
+Enumeración de DNS.
+##### Ingeniería Social
+
+#### Reconocimiento activo
+
+#### Escaneo de puertos y servicios
+
+TO-DO nmap, zenmap, etc.
+
+##### Escaneo de vulnerabilidades
+
+Greenbone OpenVas, Nessus
 
 ### Escaneo: pruebas de PenTesting
 
@@ -207,51 +201,25 @@ En resumen, el análisis forense digital es una técnica esencial en la lucha co
 
 A continuación, proporcionamos algunos ejemplos de herramientas que se utilizan comúnmente en cada una de las etapas del análisis forense digital:
 
-1.  Adquisición de datos:
-    
-
-*   dd (para copiar datos bit a bit)
-    
-*   FTK Imager (para adquirir imágenes de disco)
-    
-*   EnCase Forensic Imager (para adquirir imágenes de disco)
-    
-*   Helix3 Pro (para crear imágenes de disco)
-    
-
-2.  Preservación de datos:
-    
-
-*   FTK Imager (para crear imágenes forenses)
-    
-*   Encase Forensic (para proteger los datos originales)
-    
-*   WinHex (para preservar los datos de forma segura)
-    
-
-3.  Análisis de datos:
-    
-
-*   Autopsy (para analizar imágenes de disco)
-    
-*   EnCase Forensic (para análisis de archivos y recuperación de datos)
-    
-*   SANS SIFT Workstation (para análisis de redes)
-    
-*   The Sleuth Kit (para análisis de archivos)
-    
-
-4.  Presentación de resultados:
-    
-
-*   Xplico (para reconstruir la comunicación en red)
-    
-*   Wireshark (para capturar y analizar tráfico de red)
-    
-*   Oxygen Forensic Detective (para análisis de dispositivos móviles)
-    
-*   FTK (para presentar los resultados del análisis)
-    
+1. Adquisición de datos:
+   * dd (para copiar datos bit a bit)
+   * FTK Imager (para adquirir imágenes de disco)
+   * EnCase Forensic Imager (para adquirir imágenes de disco)
+   * Helix3 Pro (para crear imágenes de disco)
+2. Preservación de datos:
+   * FTK Imager (para crear imágenes forenses)
+   * Encase Forensic (para proteger los datos originales)
+   * WinHex (para preservar los datos de forma segura)
+3. Análisis de datos:
+   * Autopsy (para analizar imágenes de disco)
+   * EnCase Forensic (para análisis de archivos y recuperación de datos)
+   * SANS SIFT Workstation
+   * The Sleuth Kit (para análisis de archivos)
+4. Presentación de resultados:
+   * Xplico (para reconstruir la comunicación en red)
+   * Wireshark (para capturar y analizar tráfico de red)
+   * Oxygen Forensic Detective (para análisis de dispositivos móviles)
+   * FTK (para presentar los resultados del análisis)
 
 Es importante tener en cuenta que estas son solo algunas de las herramientas disponibles y que cada analista forense puede tener sus preferencias en cuanto a las herramientas que utiliza. Además, es importante mencionar que el uso de estas herramientas debe hacerse de manera legal y ética.
 
